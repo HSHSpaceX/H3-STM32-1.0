@@ -9,5 +9,12 @@
 ![image](https://github.com/user-attachments/assets/caf755d7-9068-4c32-b463-fa6e9d94c602)
 ![image](https://github.com/user-attachments/assets/cb066813-6b54-452d-97dc-18ee505ce67f)
 
-# 代码正使用Keil5开发中，敬请期待
-![image](https://github.com/user-attachments/assets/352b436e-1e76-42b6-a5da-3a8c06d1ad69)
+# 效果
+https://github.com/user-attachments/assets/2b05eb05-d44c-4a65-8339-d22bd790a6d1
+
+如果想要参考触发角度（参考放置），请至https://www.kechuang.org/t/91793查看
+即下部分
+<img width="1919" height="1079" alt="IMG_1647" src="https://github.com/user-attachments/assets/e14b0092-53b8-45b1-976f-78cef871541d" />
+
+
+
