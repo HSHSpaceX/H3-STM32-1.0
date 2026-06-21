@@ -12,7 +12,7 @@
 # 效果
 https://github.com/user-attachments/assets/2b05eb05-d44c-4a65-8339-d22bd790a6d1
 
-如果想要参考触发角度（参考放置），请至https://www.kechuang.org/t/91793查看
+如果想要参考触发角度（参考放置），请至https://www.kechuang.org/t/91793
 即下部分
 <img width="1919" height="1079" alt="IMG_1647" src="https://github.com/user-attachments/assets/e14b0092-53b8-45b1-976f-78cef871541d" />
 
